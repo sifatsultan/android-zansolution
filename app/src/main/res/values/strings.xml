@@ -19,4 +19,6 @@
     <string name="title_activity_shark">shark</string>
     <string name="title_activity_number">number</string>
     <string name="title_activity_lucky">lucky</string>
+    <string name="title_activity_splash">splash</string>
+    <string name="title_activity_services">services</string>
 </resources>
