@@ -1448,11 +1448,16 @@ containing a value of this type.
         public static final int logo=0x7f02004e;
         public static final int lucky=0x7f02004f;
         public static final int number=0x7f020050;
-        public static final int shark=0x7f020051;
-        public static final int splashbg=0x7f020052;
-        public static final int tabs_pattern=0x7f020053;
-        public static final int tabs_pattern_diagonal=0x7f020054;
-        public static final int typo=0x7f020055;
+        public static final int services_land_med_graphic=0x7f020051;
+        public static final int services_land_med_motion=0x7f020052;
+        public static final int services_land_med_seo=0x7f020053;
+        public static final int services_land_med_social=0x7f020054;
+        public static final int shark=0x7f020055;
+        public static final int socialmarketing=0x7f020056;
+        public static final int splashbg=0x7f020057;
+        public static final int tabs_pattern=0x7f020058;
+        public static final int tabs_pattern_diagonal=0x7f020059;
+        public static final int typo=0x7f02005a;
     }
     public static final class id {
         public static final int action_bar=0x7f090031;
