@@ -5,67 +5,62 @@
     android:orientation="vertical"
     android:weightSum="4"
     tools:context="sifat.zansolution.services">
-
-
     <Button
         android:layout_width="match_parent"
-        android:adjustViewBounds="true"
-        android:padding="0dp"
-        android:layout_margin="0dp"
-        android:text="Graphic Design"
-        android:textSize="10pt"
-        android:id="@+id/graphicDesign"
-        android:onClick="graphic_design"
+        android:layout_height="0dp"
+        android:id="@+id/socialMarketing"
+        android:onClick="social_marketing"
+        android:text="Social Marketing"
+        android:textSize="30pt"
         android:textColor="@android:color/white"
-        android:scaleType="centerCrop"
         android:layout_weight="1"
-        android:background="@color/yellow1"
-        android:layout_height="wrap_content" />
+        android:background="@drawable/item_social_med"
+        android:adjustViewBounds="true"
+        android:scaleType="center"
+        />
 
     <Button
         android:layout_width="match_parent"
-        android:adjustViewBounds="true"
-        android:id="@+id/seo"
-        android:padding="0dp"
-        android:layout_margin="0dp"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:onClick="graphic_design"
+        android:id="@+id/graphicDesign"
+        android:text="Graphic Design"
+        android:textSize="30pt"
         android:textColor="@android:color/white"
-        android:text="SEO"
-        android:textSize="20pt"
+        android:background="@drawable/item_graphic_med"
+        android:adjustViewBounds="true"
         android:scaleType="centerCrop"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Motion Graphics"
+        android:onClick="motion_graphics"
+        android:id="@+id/motionGraphics"
+        android:textSize="30pt"
+        android:textColor="@android:color/white"
+        android:background="@drawable/item_motion_med"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
         android:onClick="seo"
         android:layout_weight="1"
-        android:background="@color/shark_black"
-        android:layout_height="wrap_content" />
-
-    <Button
-        android:layout_width="match_parent"
-        android:adjustViewBounds="true"
-        android:padding="0dp"
-        android:layout_margin="0dp"
-        android:id="@+id/socialMarketing"
-        android:scaleType="centerCrop"
-        android:text="Social Marketing"
-        android:onClick="social_marketing"
+        android:id="@+id/seo"
+        android:text="SEO"
+        android:textSize="30pt"
         android:textColor="@android:color/white"
-        android:textSize="20pt"
-        android:layout_weight="1"
-        android:background="@color/number_red"
-        android:layout_height="wrap_content" />
-
-    <Button
-        android:layout_width="match_parent"
+        android:background="@drawable/item_marketing_med"
         android:adjustViewBounds="true"
-        android:padding="0dp"
-        android:text="Motion Graphics"
-        android:id="@+id/motionGraphics"
-        android:onClick="motion_graphics"
-        android:textSize="20pt"
-        android:textColor="@android:color/white"
-        android:layout_margin="0dp"
         android:scaleType="centerCrop"
-        android:layout_weight="1"
-        android:background="@color/lucky_blue"
-        android:layout_height="wrap_content" />
+        />
+
 
 
 </LinearLayout>

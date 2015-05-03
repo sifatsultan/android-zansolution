@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/image" android:layout_width="match_parent">
+        <bitmap android:src="@drawable/lucky" android:gravity="center" />
+    </item>
+
+    <item android:id="@+id/color"  android:layout_width="match_parent" android:layout_height="wrap_content">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/lucky_blue"/>
+        </shape>
+    </item>
+</layer-list>

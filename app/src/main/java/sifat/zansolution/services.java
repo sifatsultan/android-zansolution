@@ -20,7 +20,7 @@ public class services extends Activity {
 //        graphic_design, seo, socialmarketing,motion_graphics
 //        graphic_design, seo, social_marketing, motion_graphics
 
-        
+
         Button graphicDesign = (Button)findViewById(R.id.graphicDesign);
         Button seo = (Button)findViewById(R.id.seo);
         Button socialMarketing = (Button)findViewById(R.id.socialMarketing);

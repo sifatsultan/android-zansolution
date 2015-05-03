@@ -20,16 +20,8 @@ public class splash extends Activity {
     }
 
     public void next(View view){
-        Intent intent = new Intent(this,fox.class);
+        Intent intent = new Intent(this,services.class);
         startActivity(intent);
-    }
-
-
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_splash, menu);
-        return true;
     }
 
 
