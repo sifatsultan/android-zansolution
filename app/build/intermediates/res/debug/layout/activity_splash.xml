@@ -1,0 +1,39 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="sifat.zansolution.splash">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:src="@drawable/bgpng"
+        android:scaleType="centerCrop"
+        android:layout_height="match_parent" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:src="@drawable/logo"
+        android:id="@+id/logo"
+        android:layout_centerInParent="true"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:maxWidth="50pt"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:id="@+id/next"
+        android:text="Enter"
+        android:textColor="@android:color/black"
+        android:textSize="10pt"
+        android:onClick="next"
+        android:background="@android:color/white"
+        android:paddingTop="10pt"
+        android:paddingBottom="10pt"
+        android:paddingRight="@dimen/abc_dropdownitem_icon_width"
+        android:paddingLeft="@dimen/abc_dropdownitem_icon_width"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/logo"
+        android:layout_marginBottom="87dp" />
+</RelativeLayout>
+<!-- From: file:/C:/Users/Sifat/android/ZanSolution/app/src/main/res/layout/activity_splash.xml -->

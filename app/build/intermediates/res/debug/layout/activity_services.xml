@@ -1,0 +1,67 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="4"
+    tools:context="sifat.zansolution.services">
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/socialMarketing"
+        android:onClick="social_marketing"
+        android:text="Social Marketing"
+        android:textSize="30pt"
+        android:textColor="@android:color/white"
+        android:layout_weight="1"
+        android:background="@drawable/item_social_med"
+        android:adjustViewBounds="true"
+        android:scaleType="center"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:onClick="graphic_design"
+        android:id="@+id/graphicDesign"
+        android:text="Graphic Design"
+        android:textSize="30pt"
+        android:textColor="@android:color/white"
+        android:background="@drawable/item_graphic_med"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Motion Graphics"
+        android:onClick="motion_graphics"
+        android:id="@+id/motionGraphics"
+        android:textSize="30pt"
+        android:textColor="@android:color/white"
+        android:background="@drawable/item_motion_med"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:onClick="seo"
+        android:layout_weight="1"
+        android:id="@+id/seo"
+        android:text="SEO"
+        android:textSize="30pt"
+        android:textColor="@android:color/white"
+        android:background="@drawable/item_marketing_med"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        />
+
+
+
+</LinearLayout>
+<!-- From: file:/C:/Users/Sifat/android/ZanSolution/app/src/main/res/layout/activity_services.xml -->
