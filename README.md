@@ -1,6 +1,5 @@
 # Android Zan Solution
 
-
 <img height="500dp" align="center" atl="Zan Solution" src="https://github.com/sifatsultan/android-zansolution/blob/master/screenshots/splash_nexus5.png">
 <!--![alt tag](https://github.com/sifatsultan/android-zansolution/blob/master/screenshots/splash_nexus5.png)-->
 
@@ -19,8 +18,10 @@ An official app that has the following outcomes:
 The different activities in the app are the following:
 * Splash Screen
 * Service List
-Currently, I am working on the first stage; the users come to know about the services 
 
-## Splash Screen
+## Service List
+<img src="https://github.com/sifatsultan/android-zansolution/blob/master/screenshots/services_land.png" width="500dp">
+
+# Note: Currently, I am on Service screen, needs fine tuning
 
 
