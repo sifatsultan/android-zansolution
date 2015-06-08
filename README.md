@@ -1,10 +1,8 @@
 # Android Zan Solution
 
-<img height="500dp" align="center" atl="Zan Solution" src="https://github.com/sifatsultan/android-zansolution/blob/master/screenshots/splash_nexus5.png">
-<!--![alt tag](https://github.com/sifatsultan/android-zansolution/blob/master/screenshots/splash_nexus5.png)-->
+![Nexus 5](https://raw.githubusercontent.com/sifatsultan/android-zansolution/master/screenshots/splash_nexus5.png)
 
-
-<a href="https://github.com/sifatsultan/android-zansolution/blob/master/app/build/outputs/apk/app-debug.apk?raw=true">Downlaod</a> the beta app here 
+[Downlaod](https://github.com/sifatsultan/android-zansolution/blob/master/app/build/outputs/apk/app-debug.apk?raw=true "Download") the beta app here. 
 
 ## Outcome
 An official app that has the following outcomes:
