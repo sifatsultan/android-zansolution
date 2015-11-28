@@ -16,8 +16,4 @@ Portfolio Activity
 
 <img src="https://raw.githubusercontent.com/sifatsultan/android-zansolution/master/screenshots/zan_branding_activity.jpg" width="350px" alt="">
 
-## Service List
-
-<img src="https://github.com/sifatsultan/android-zansolution/blob/master/screenshots/services_land.png" width="500dp">
-
 
