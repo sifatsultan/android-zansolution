@@ -1,6 +1,6 @@
 # Zan Solution
 
-<img src="https://raw.githubusercontent.com/sifatsultan/android-zansolution/master/screenshots/splash_nexus5.png" alt="Home Screen" width="450px">
+<img src="https://raw.githubusercontent.com/sifatsultan/android-zansolution/master/screenshots/splash_nexus5.png" alt="Home Screen" width="200px">
 
 [Downlaod](https://github.com/sifatsultan/android-zansolution/blob/master/app/build/outputs/apk/app-debug.apk?raw=true "Download") the beta app here. 
 
@@ -12,11 +12,12 @@ An official app that has the following outcomes:
 
 ## Activity
 
-The different activities in the app are the following:
-* Splash Screen
-* Service List
+Portfolio Activity
+
+<img src="https://raw.githubusercontent.com/sifatsultan/android-zansolution/master/screenshots/zan_branding_activity.jpg" width="350px" alt="">
 
 ## Service List
+
 <img src="https://github.com/sifatsultan/android-zansolution/blob/master/screenshots/services_land.png" width="500dp">
 
 
