@@ -5,7 +5,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:background="@color/number_red"
     android:paddingBottom="@dimen/activity_vertical_margin"
-    tools:context="sifat.zansolution.number">
+    tools:context="sifat.zansolution.NumberActivity">
 
     <ImageView
         android:layout_width="wrap_content"

@@ -119,14 +119,14 @@ public class MainActivity2Activity extends ActionBarActivity {
      */
     public static class PlaceholderFragment extends Fragment {
         /**
-         * The fragment argument representing the section number for this
+         * The fragment argument representing the section NumberActivity for this
          * fragment.
          */
         private static final String ARG_SECTION_NUMBER = "section_number";
 
         /**
          * Returns a new instance of this fragment for the given section
-         * number.
+         * NumberActivity.
          */
         public static PlaceholderFragment newInstance(int sectionNumber) {
             PlaceholderFragment fragment = new PlaceholderFragment();

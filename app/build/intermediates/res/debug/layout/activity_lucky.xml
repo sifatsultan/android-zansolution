@@ -5,7 +5,7 @@
     android:id="@+id/activity_lucky"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:background="@color/lucky_blue"
-    android:paddingBottom="@dimen/activity_vertical_margin" tools:context="sifat.zansolution.lucky">
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context="sifat.zansolution.LuckyActivity">
 
     <ImageView
         android:layout_width="wrap_content"
@@ -29,4 +29,4 @@
         android:padding="@dimen/abc_dropdownitem_icon_width"
         android:layout_height="wrap_content" />
 </RelativeLayout>
-<!-- From: file:/C:/Users/Sifat/android/ZanSolution/app/src/main/res/layout/activity_lucky.xml -->
+<!-- From: file:/C:/Users/Sifat/Desktop/android-zansolution/app/src/main/res/layout/activity_lucky.xml -->

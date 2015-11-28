@@ -2,4 +2,4 @@
     xmlns:tools="http://schemas.android.com/tools" android:id="@+id/pager"
     android:layout_width="match_parent" android:layout_height="match_parent"
     tools:context="sifat.zansolution.MainActivity2Activity" />
-<!-- From: file:/C:/Users/Sifat/android/ZanSolution/app/src/main/res/layout/activity_main_activity2.xml -->
+<!-- From: file:/C:/Users/Sifat/Desktop/android-zansolution/app/src/main/res/layout/activity_main_activity2.xml -->
