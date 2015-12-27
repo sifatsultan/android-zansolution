@@ -1,4 +1,4 @@
-# Zan Solution
+# Zen Solution
 
 <img src="https://raw.githubusercontent.com/sifatsultan/android-zansolution/master/pics/zan_activity_splash.jpg" width="350px" alt="">
 
@@ -17,7 +17,7 @@ Splash Activity
 
 Story Activity: Fresh Air
 
-<img src="https://raw.githubusercontent.com/sifatsultan/android-zansolution/master/pics/zan_activity_storyfresh.jpg" width="350px" alt="">
+<img src="https://raw.githubusercontent.com/sifatsultan/android-zansolution/master/pics/zan_activity_story01.jpg" width="350px" alt="">
 
 Story Activity: Find Out
 
