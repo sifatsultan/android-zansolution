@@ -13,12 +13,14 @@ ADDED from AndroidManifest.xml:2:1
 	android:versionCode
 		INJECTED from AndroidManifest.xml:0:0
 		INJECTED from AndroidManifest.xml:0:0
-uses-permission#android.permission.READ_CONTACTS
+uses-permission#android.permission.internet
 ADDED from AndroidManifest.xml:5:5
 	android:name
 		ADDED from AndroidManifest.xml:5:22
 application
 ADDED from AndroidManifest.xml:7:5
+MERGED from com.android.support:support-v4:22.0.0:22:5
+MERGED from com.android.support:support-v4:22.0.0:22:5
 MERGED from com.android.support:appcompat-v7:22.0.0:22:5
 MERGED from com.android.support:support-v4:22.0.0:22:5
 MERGED from com.astuetz:pagerslidingtabstrip:1.0.1:4:5
@@ -48,7 +50,7 @@ category#android.intent.category.LAUNCHER
 ADDED from AndroidManifest.xml:19:17
 	android:name
 		ADDED from AndroidManifest.xml:19:27
-activity#sifat.zansolution.ServicesActivity
+activity#sifat.zansolution.StoryActivity
 ADDED from AndroidManifest.xml:23:9
 	android:label
 		ADDED from AndroidManifest.xml:25:13
@@ -56,6 +58,14 @@ ADDED from AndroidManifest.xml:23:9
 		ADDED from AndroidManifest.xml:24:13
 uses-sdk
 INJECTED from AndroidManifest.xml:0:0 reason: use-sdk injection requested
+MERGED from com.facebook.fresco:fresco:0.7.0:5:5
+MERGED from com.facebook.fresco:imagepipeline:0.7.0:5:5
+MERGED from com.facebook.fresco:fbcore:0.7.0:5:5
+MERGED from com.android.support:support-v4:22.0.0:20:5
+MERGED from com.facebook.fresco:drawee:0.7.0:5:5
+MERGED from com.facebook.fresco:fbcore:0.7.0:5:5
+MERGED from com.android.support:support-v4:22.0.0:20:5
+MERGED from com.facebook.fresco:fbcore:0.7.0:5:5
 MERGED from com.android.support:appcompat-v7:22.0.0:20:5
 MERGED from com.android.support:support-v4:22.0.0:20:5
 MERGED from com.astuetz:pagerslidingtabstrip:1.0.1:2:5

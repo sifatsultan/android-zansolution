@@ -1,0 +1,13 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/content"
+    android:layout_width="match_parent"
+    android:background="@android:color/white"
+    android:layout_height="match_parent" >
+
+    <ImageView android:id="@+id/fresh"
+        android:layout_width="@android:dimen/thumbnail_width"
+        android:src="@drawable/fresh"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        />
+</ScrollView><!-- From: file:/C:/Users/Sifat/Desktop/android-zansolution/app/src/main/res/layout/activity_storyfresh.xml -->

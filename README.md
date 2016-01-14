@@ -11,20 +11,19 @@ An official app that has the following outcomes:
 
 ## Activity
 
-Splash Activity
-
+###Splash Activity
 <img src="https://raw.githubusercontent.com/sifatsultan/android-zansolution/master/pics/zan_activity_splash.jpg" width="350px" alt="">
 
-Story Activity: Fresh Air
-
+###Story Activity: Fresh Air
 <img src="https://raw.githubusercontent.com/sifatsultan/android-zansolution/master/pics/zan_activity_story01.jpg" width="350px" alt="">
 
-Story Activity: Find Out
-
+###Story Activity: Find Out
 <img src="https://raw.githubusercontent.com/sifatsultan/android-zansolution/master/pics/zan_activity_storyfind.jpg" width="350px" alt="">
 
-Portfolio Activity
-
+###Portfolio Activity
 <img src="https://raw.githubusercontent.com/sifatsultan/android-zansolution/master/pics/zan_activity_portfolio.jpg" width="350px" alt="">
 
 
+## Keyboard Shortcuts
+Get the annoying bottom output down[Shift+Esc]
+Get anywhere[Shift*2]

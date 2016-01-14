@@ -12,7 +12,7 @@ public class FoxActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_fox);
+        setContentView(R.layout.activity_storyfresh);
         Button next = (Button)findViewById(R.id.enter);
     }
 

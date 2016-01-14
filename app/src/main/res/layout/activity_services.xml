@@ -5,7 +5,7 @@
     android:theme="@style/Base.Theme.AppCompat.Light"
     android:layout_gravity="center"
     android:padding="@dimen/abc_action_bar_default_padding_material"
-    tools:context="sifat.zansolution.ServicesActivity">
+    tools:context="sifat.zansolution.StoryFreshActivity">
 
     <!--output, jsonParsed, serverText-->
 
