@@ -1,0 +1,41 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".services">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:src="@drawable/bgpng_land"
+        android:scaleType="centerCrop"
+        android:layout_height="match_parent" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:src="@drawable/logo"
+        android:id="@+id/logo"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="30pt"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:maxWidth="80pt"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:id="@+id/next"
+        android:text="Enter"
+        android:textColor="@android:color/black"
+        android:textSize="10pt"
+        android:onClick="next"
+        android:background="@android:color/white"
+        android:paddingTop="10pt"
+        android:paddingBottom="10pt"
+        android:paddingRight="@dimen/abc_dropdownitem_icon_width"
+        android:paddingLeft="@dimen/abc_dropdownitem_icon_width"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="30pt"
+        android:layout_alignParentRight="true" />
+</RelativeLayout>
+<!-- From: file:/C:/Users/Sifat/Desktop/android-zansolution/app/src/main/res/layout-land/activity_splash.xml -->

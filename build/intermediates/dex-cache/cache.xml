@@ -2,18 +2,11 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.7.0\jars\classes.jar"
+        jar="C:\Users\Sifat\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="956a7969705640c8790b983aaa7ff805dff80cf6">
-        <dex dex="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\pre-dexed\debug\classes-b91a73d2955282667b1b284da9b691da346dacd4.jar" />
-    </item>
-    <item
-        jar="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\pre-dexed\debug\classes-67eb83d47e0e5dabdeb971367bc68ed5e09aea93.jar" />
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\pre-dexed\debug\library-2.4.0-257a37dd76639b61d85e839bcba562f94d726df4.jar" />
     </item>
     <item
         jar="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.7.0\jars\classes.jar"
@@ -23,6 +16,13 @@
         <dex dex="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\pre-dexed\debug\classes-ac6fe87e9c71ee4229c65a5ca85473837c231df3.jar" />
     </item>
     <item
+        jar="C:\Users\Sifat\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-edd1b6b2a9767ba9720f6c8ab98c6bd9bd2c6322.jar" />
+    </item>
+    <item
         jar="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -30,32 +30,18 @@
         <dex dex="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\pre-dexed\debug\classes-1405eb8feda4d49f61614fd3fc4daf636df87e80.jar" />
     </item>
     <item
-        jar="C:\Users\Sifat\Desktop\android-zansolution\app\libs\ksoap2-android-assembly-2.5.8-jar-with-dependencies.jar"
+        jar="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="d6e6d14301616c866b7eff210ece6579299417ec">
-        <dex dex="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-2.5.8-jar-with-dependencies-7c1f503ce061d51c202e9a02d22cd9ddaa2aee17.jar" />
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\pre-dexed\debug\classes-67eb83d47e0e5dabdeb971367bc68ed5e09aea93.jar" />
     </item>
     <item
-        jar="C:\Users\Sifat\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jar="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.7.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\pre-dexed\debug\library-2.4.0-257a37dd76639b61d85e839bcba562f94d726df4.jar" />
-    </item>
-    <item
-        jar="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.7.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="a31fd4d68ac17ad1988f4b44eed1f69327315a55">
-        <dex dex="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\pre-dexed\debug\classes-e747669f46eb80262557f31f1db120d470d8547e.jar" />
-    </item>
-    <item
-        jar="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-ed0eac8a61066f5bedde4ecae0978f3a6d46b180.jar" />
+        sha1="956a7969705640c8790b983aaa7ff805dff80cf6">
+        <dex dex="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\pre-dexed\debug\classes-b91a73d2955282667b1b284da9b691da346dacd4.jar" />
     </item>
     <item
         jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
@@ -65,18 +51,11 @@
         <dex dex="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-036d4f6abf1af3a69bdd91c577da918ead884ec2.jar" />
     </item>
     <item
-        jar="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\exploded-aar\com.astuetz\pagerslidingtabstrip\1.0.1\jars\classes.jar"
+        jar="C:\Users\Sifat\Desktop\android-zansolution\app\libs\ksoap2-android-assembly-2.5.8-jar-with-dependencies.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="7912610ed96381c25c36d986eba422731b9641b6">
-        <dex dex="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\pre-dexed\debug\classes-4c0e7eb18281c1db4f4dd09dabef80a64f70caca.jar" />
-    </item>
-    <item
-        jar="C:\Users\Sifat\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="129874135e6081269ace2312092031558865de12">
-        <dex dex="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-edd1b6b2a9767ba9720f6c8ab98c6bd9bd2c6322.jar" />
+        sha1="d6e6d14301616c866b7eff210ece6579299417ec">
+        <dex dex="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-2.5.8-jar-with-dependencies-7c1f503ce061d51c202e9a02d22cd9ddaa2aee17.jar" />
     </item>
     <item
         jar="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.7.0\jars\classes.jar"
@@ -84,6 +63,20 @@
         revision="21.1.2"
         sha1="7eb126039737b3ada03141cba019d2c385cceca8">
         <dex dex="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\pre-dexed\debug\classes-c4e89d7bcfb962d04714d18e4a02696b28300555.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-ed0eac8a61066f5bedde4ecae0978f3a6d46b180.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.7.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a31fd4d68ac17ad1988f4b44eed1f69327315a55">
+        <dex dex="C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\pre-dexed\debug\classes-e747669f46eb80262557f31f1db120d470d8547e.jar" />
     </item>
 
 </items>
