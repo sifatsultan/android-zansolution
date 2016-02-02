@@ -12,21 +12,20 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/zan_icon"
         android:label="@string/app_name"
         android:theme="@android:style/Theme.Holo.NoActionBar.Fullscreen" >
         <activity
             android:name="sifat.zansolution.SplashActivity"
-            android:label="@string/app_name" >
+            android:label="@string/title_activity_services" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="sifat.zansolution.StoryActivity"
-            android:label="@string/title_activity_services" />
+        <activity android:name="sifat.zansolution.StoryFragmentActivity" />
+        <activity android:name="sifat.zansolution.ListItemDetailActivity" />
     </application>
 
 </manifest>

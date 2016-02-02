@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:background="@android:color/white"
+    android:layout_marginBottom="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.facebook.drawee.view.SimpleDraweeView
+        android:id="@+id/logo"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_margin="20dp"
+        fresco:placeholderImage="@drawable/transparent"
+        />
+
+    <sifat.zansolution.FSLightTextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/logo"
+        android:layout_marginTop="20dp"
+        android:textColor="#00acc3"
+        android:textSize="22.9dp"
+        android:text="Company Name"/>
+
+    <com.facebook.drawee.view.SimpleDraweeView
+        android:id="@+id/banner"
+        android:layout_marginBottom="20dp"
+        android:layout_below="@+id/logo"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:scaleType="centerCrop"
+        fresco:placeholderImage="@drawable/transparent"
+        />
+
+    <sifat.zansolution.FSBoldTextView
+        android:id="@+id/tags"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/banner"
+        android:text="@string/tag1"
+        android:paddingRight="20dp"
+        android:paddingBottom="20dp"
+        android:paddingLeft="20dp"
+
+        />
+
+</RelativeLayout>
