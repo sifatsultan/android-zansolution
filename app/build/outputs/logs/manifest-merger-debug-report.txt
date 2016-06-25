@@ -1,77 +1,77 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml:2:1-28:12
+ADDED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml:2:1-28:12
 	package
-		ADDED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml:3:5-32
-		INJECTED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml
+		ADDED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml
+		INJECTED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml
+		INJECTED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.internet
-ADDED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml:5:5-66
+ADDED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml:5:5-66
 	android:name
-		ADDED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml:7:5-26:19
-MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:22.0.0] C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+ADDED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml:7:5-26:19
+MERGED from [com.android.support:support-v4:22.0.0] /home/sifat/StudioProjects/android-zansolution/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.0.0] /home/sifat/StudioProjects/android-zansolution/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.0.0] /home/sifat/StudioProjects/android-zansolution/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.0.0] /home/sifat/StudioProjects/android-zansolution/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.0.0] /home/sifat/StudioProjects/android-zansolution/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml:10:9-41
 	android:allowBackup
-		ADDED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml:8:9-35
 	android:icon
-		ADDED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml:9:9-42
+		ADDED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml:9:9-42
 	android:theme
-		ADDED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml:11:9-73
+		ADDED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml:11:9-73
 activity#sifat.zansolution.SplashActivity
-ADDED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml:13:9-21:20
+ADDED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml:13:9-21:20
 	android:label
-		ADDED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml:15:13-60
+		ADDED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml:15:13-60
 	android:name
-		ADDED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml:14:13-43
+		ADDED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml:14:13-43
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml:17:13-20:29
+ADDED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml:17:13-20:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml:18:17-68
+ADDED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml:18:17-68
 	android:name
-		ADDED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml:18:25-66
+		ADDED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml:19:17-76
+ADDED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml:19:17-76
 	android:name
-		ADDED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml:19:27-74
 activity#sifat.zansolution.StoryFragmentActivity
-ADDED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml:23:9-58
+ADDED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml:23:9-58
 	android:name
-		ADDED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml:23:19-56
+		ADDED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml:23:19-56
 activity#sifat.zansolution.ListItemDetailActivity
-ADDED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml:24:9-59
+ADDED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml:24:9-59
 	android:name
-		ADDED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml:24:19-57
+		ADDED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml:24:19-57
 uses-sdk
-INJECTED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.facebook.fresco:fresco:0.7.0] C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.7.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:0.7.0] C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.7.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:0.7.0] C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.7.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.facebook.fresco:drawee:0.7.0] C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.7.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:0.7.0] C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.7.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.facebook.fresco:fbcore:0.7.0] C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.7.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:appcompat-v7:22.0.0] C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Sifat\Desktop\android-zansolution\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+INJECTED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.facebook.fresco:fresco:0.7.0] /home/sifat/StudioProjects/android-zansolution/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.7.0] /home/sifat/StudioProjects/android-zansolution/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.7.0] /home/sifat/StudioProjects/android-zansolution/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:22.0.0] /home/sifat/StudioProjects/android-zansolution/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:drawee:0.7.0] /home/sifat/StudioProjects/android-zansolution/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.7.0] /home/sifat/StudioProjects/android-zansolution/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:22.0.0] /home/sifat/StudioProjects/android-zansolution/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.7.0] /home/sifat/StudioProjects/android-zansolution/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:22.0.0] /home/sifat/StudioProjects/android-zansolution/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.0.0] /home/sifat/StudioProjects/android-zansolution/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.0.0] /home/sifat/StudioProjects/android-zansolution/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
-		INJECTED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml
+		INJECTED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Sifat\Desktop\android-zansolution\app\src\main\AndroidManifest.xml
+		INJECTED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sifat/StudioProjects/android-zansolution/app/src/main/AndroidManifest.xml

@@ -2,4 +2,4 @@
 <bitmap xmlns:android="http://schemas.android.com/apk/res/android"
 android:src="@drawable/bgpng"
 android:tileMode="disabled" android:gravity="top" >
-</bitmap><!-- From: file:/C:/Users/Sifat/Desktop/android-zansolution/app/src/main/res/drawable/bg.xml -->
+</bitmap>

@@ -3,4 +3,4 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/pager"
     android:layout_width="match_parent"
-    android:layout_height="match_parent" /><!-- From: file:/C:/Users/Sifat/Desktop/android-zansolution/app/src/main/res/layout/story_swipe.xml -->
+    android:layout_height="match_parent" />

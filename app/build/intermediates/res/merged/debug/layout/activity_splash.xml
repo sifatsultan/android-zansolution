@@ -10,4 +10,4 @@
         android:layout_centerInParent="true"
         android:layout_height="wrap_content" />
 
-</RelativeLayout><!-- From: file:/C:/Users/Sifat/Desktop/android-zansolution/app/src/main/res/layout/activity_splash.xml -->
+</RelativeLayout>
